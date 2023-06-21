@@ -1,0 +1,11 @@
+# IDE
+.idea/
+
+# Dependeny directiories
+node_modules
+
+# Lint
+.eslintrc.json
+
+# env
+.env
